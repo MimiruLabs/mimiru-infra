@@ -1,1 +1,1 @@
-➡️ [Read more about Mimiru Frontend](../../wiki/Wiki-Home)
+➡️ [Read more about Mimiru Infra](../../wiki/Wiki-Home)
